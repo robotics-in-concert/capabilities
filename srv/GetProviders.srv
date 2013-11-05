@@ -1,3 +1,4 @@
 string interface
+bool include_semantic
 ---
 string[] providers
